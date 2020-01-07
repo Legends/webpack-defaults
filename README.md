@@ -1,4 +1,6 @@
-  1.) Yarn init -y <br/>
+ ### Follow the steps to create a boilerplate project for writing webpack loaders/plugins
+ 
+ 1.) Yarn init -y <br/>
   2.) Install the package first: ```yarn add --dev @webpack-contrib/defaults``` <br/>
   3.) Add the default command to package.json:<br/>
 ```
